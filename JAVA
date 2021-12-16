@@ -1,0 +1,22 @@
+Java-Selenium-POM
+
+
+Java-Appium-POM
+
+
+JAVA-Cucumber-WEB
+
+1. https://github.com/martinschneider/awesome-cucumber
+2. https://github.com/martinschneider/awesome-cucumber
+3. https://awesomeopensource.com/projects/bdd/cucumber
+4. https://awesomeopensource.com/projects/cucumber?categoryPage=27
+5. https://github.com/ashenwgt/awesome-bdd-with-cucumber
+6. https://github.com/cucumber/cucumber-jvm/blob/main/release-notes/v5.0.0.md
+7. https://github.com/SmartBear/awesome
+8. https://github.com/omergulen/awesome-bdd
+9. https://github.com/ashenwgt/awesome-bdd-with-cucumber/blob/master/src/test/java/stepdefs/ServiceHooks.java
+10. https://github.com/symonk/Writing-Good-Gherkin-Syntax
+11. 
+
+
+JAVA-Cucumber-Mobile
